@@ -1,0 +1,44 @@
+12:59:00:570 [main] INFO  testCases.TC0002_Login - **************************TC0002_Login Test Case finished*********************
+13:06:16:097 [TestNG-tests-1] INFO  testCases.TC0001_Register - *********** TC0001_ Account Register started *********** 
+13:06:16:705 [TestNG-tests-1] INFO  testCases.TC0001_Register - here Clicked My account element
+13:06:17:447 [TestNG-tests-1] INFO  testCases.TC0001_Register -  here Clicked register element
+13:06:17:453 [TestNG-tests-1] INFO  testCases.TC0001_Register - here providing customer details for account registration
+13:06:22:222 [TestNG-tests-1] INFO  testCases.TC0001_Register - Validationg conformation Message
+13:06:22:360 [TestNG-tests-1] INFO  testCases.TC0001_Register - *********** TC0001_ Account Register Finished ***********
+13:06:35:328 [TestNG-tests-2] INFO  testCases.TC0002_Login - *********************TC0002_Login Test Case Started***********************
+13:06:36:706 [TestNG-tests-2] INFO  testCases.TC0002_Login - Sending user details like email password
+13:06:37:839 [TestNG-tests-2] INFO  testCases.TC0002_Login - Verifying My account page is opend or not
+13:06:37:840 [TestNG-tests-2] INFO  testCases.TC0002_Login - **************************TC0002_Login Test Case finished*********************
+17:19:18:021 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\admin\eclipse-workspace\Automation Framework\HybridFramework\master.xml"
+17:19:27:091 [main] INFO  testCases.TC0001_Register - *********** TC0001_ Account Register started *********** 
+17:19:27:789 [main] INFO  testCases.TC0001_Register - here Clicked My account element
+17:19:28:225 [main] INFO  testCases.TC0001_Register -  here Clicked register element
+17:19:28:255 [main] INFO  testCases.TC0001_Register - here providing customer details for account registration
+17:19:29:951 [main] INFO  testCases.TC0001_Register - Validationg conformation Message
+17:19:30:002 [main] INFO  testCases.TC0001_Register - *********** TC0001_ Account Register Finished ***********
+17:19:32:749 [main] INFO  testCases.TC0002_Login - *********************TC0002_Login Test Case Started***********************
+17:19:33:738 [main] INFO  testCases.TC0002_Login - Sending user details like email password
+17:19:34:802 [main] INFO  testCases.TC0002_Login - Verifying My account page is opend or not
+17:19:34:802 [main] INFO  testCases.TC0002_Login - **************************TC0002_Login Test Case finished*********************
+17:46:42:272 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\admin\eclipse-workspace\Automation Framework\HybridFramework\master.xml"
+17:46:46:737 [main] INFO  testCases.TC0001_Register - *********** TC0001_ Account Register started *********** 
+17:46:47:390 [main] INFO  testCases.TC0001_Register - here Clicked My account element
+17:46:47:872 [main] INFO  testCases.TC0001_Register -  here Clicked register element
+17:46:47:883 [main] INFO  testCases.TC0001_Register - here providing customer details for account registration
+17:46:49:607 [main] INFO  testCases.TC0001_Register - Validationg conformation Message
+17:46:49:674 [main] INFO  testCases.TC0001_Register - *********** TC0001_ Account Register Finished ***********
+17:46:52:465 [main] INFO  testCases.TC0002_Login - *********************TC0002_Login Test Case Started***********************
+17:46:53:470 [main] INFO  testCases.TC0002_Login - Sending user details like email password
+17:46:54:530 [main] INFO  testCases.TC0002_Login - Verifying My account page is opend or not
+17:46:54:530 [main] INFO  testCases.TC0002_Login - **************************TC0002_Login Test Case finished*********************
+17:59:18:519 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\admin\eclipse-workspace\Automation Framework\HybridFramework\master.xml"
+17:59:22:573 [main] INFO  testCases.TC0001_Register - *********** TC0001_ Account Register started *********** 
+17:59:23:264 [main] INFO  testCases.TC0001_Register - here Clicked My account element
+17:59:23:743 [main] INFO  testCases.TC0001_Register -  here Clicked register element
+17:59:23:747 [main] INFO  testCases.TC0001_Register - here providing customer details for account registration
+17:59:25:470 [main] INFO  testCases.TC0001_Register - Validationg conformation Message
+17:59:25:524 [main] INFO  testCases.TC0001_Register - *********** TC0001_ Account Register Finished ***********
+17:59:28:835 [main] INFO  testCases.TC0002_Login - *********************TC0002_Login Test Case Started***********************
+17:59:29:592 [main] INFO  testCases.TC0002_Login - Sending user details like email password
+17:59:30:706 [main] INFO  testCases.TC0002_Login - Verifying My account page is opend or not
+17:59:30:706 [main] INFO  testCases.TC0002_Login - **************************TC0002_Login Test Case finished*********************

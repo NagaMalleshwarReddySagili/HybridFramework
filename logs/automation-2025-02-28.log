@@ -1,0 +1,49 @@
+12:07:55:840 [main] INFO  testCases.TC0001_Register - *********** TC0001_ Account Register started *********** 
+12:07:56:586 [main] INFO  testCases.TC0001_Register - here Clicked My account element
+12:07:57:100 [main] INFO  testCases.TC0001_Register -  here Clicked register element
+12:07:57:106 [main] INFO  testCases.TC0001_Register - here providing customer details for account registration
+12:07:58:706 [main] INFO  testCases.TC0001_Register - Validationg conformation Message
+12:07:58:769 [main] INFO  testCases.TC0001_Register - *********** TC0001_ Account Register Finished ***********
+12:08:01:345 [main] INFO  testCases.TC0002_Login - *********************TC0002_Login Test Case Started***********************
+12:08:02:429 [main] INFO  testCases.TC0002_Login - Sending user details like email password
+12:08:03:548 [main] INFO  testCases.TC0002_Login - Verifying My account page is opend or not
+12:08:03:548 [main] INFO  testCases.TC0002_Login - **************************TC0002_Login Test Case finished*********************
+17:42:56:946 [main] INFO  testCases.TC0001_Register - *********** TC0001_ Account Register started *********** 
+17:42:57:604 [main] INFO  testCases.TC0001_Register - here Clicked My account element
+17:42:58:070 [main] INFO  testCases.TC0001_Register -  here Clicked register element
+17:42:58:074 [main] INFO  testCases.TC0001_Register - here providing customer details for account registration
+17:42:59:921 [main] INFO  testCases.TC0001_Register - Validationg conformation Message
+17:42:59:972 [main] INFO  testCases.TC0001_Register - *********** TC0001_ Account Register Finished ***********
+17:43:02:960 [main] INFO  testCases.TC0002_Login - *********************TC0002_Login Test Case Started***********************
+17:43:04:024 [main] INFO  testCases.TC0002_Login - Sending user details like email password
+17:43:05:554 [main] INFO  testCases.TC0002_Login - Verifying My account page is opend or not
+17:43:05:555 [main] INFO  testCases.TC0002_Login - **************************TC0002_Login Test Case finished*********************
+08:58:09:221 [main] INFO  testCases.TC0001_Register - *********** TC0001_ Account Register started *********** 
+08:58:10:090 [main] INFO  testCases.TC0001_Register - here Clicked My account element
+08:58:10:940 [main] INFO  testCases.TC0001_Register -  here Clicked register element
+08:58:11:033 [main] INFO  testCases.TC0001_Register - here providing customer details for account registration
+08:58:13:445 [main] INFO  testCases.TC0001_Register - Validationg conformation Message
+08:58:13:562 [main] INFO  testCases.TC0001_Register - *********** TC0001_ Account Register Finished ***********
+08:58:20:039 [main] INFO  testCases.TC0002_Login - *********************TC0002_Login Test Case Started***********************
+08:58:21:257 [main] INFO  testCases.TC0002_Login - Sending user details like email password
+08:58:22:447 [main] INFO  testCases.TC0002_Login - Verifying My account page is opend or not
+08:58:22:448 [main] INFO  testCases.TC0002_Login - **************************TC0002_Login Test Case finished*********************
+12:57:31:351 [main] INFO  testCases.TC0001_Register - *********** TC0001_ Account Register started *********** 
+12:57:31:662 [main] INFO  testCases.TC0001_Register - here Clicked My account element
+12:57:32:279 [main] INFO  testCases.TC0001_Register -  here Clicked register element
+12:57:32:299 [main] INFO  testCases.TC0001_Register - here providing customer details for account registration
+12:57:34:779 [main] INFO  testCases.TC0001_Register - Validationg conformation Message
+12:57:34:870 [main] INFO  testCases.TC0001_Register - *********** TC0001_ Account Register Finished ***********
+12:57:37:387 [main] INFO  testCases.TC0002_Login - *********************TC0002_Login Test Case Started***********************
+12:57:38:162 [main] INFO  testCases.TC0002_Login - Sending user details like email password
+12:57:39:455 [main] INFO  testCases.TC0002_Login - Verifying My account page is opend or not
+12:57:39:455 [main] INFO  testCases.TC0002_Login - **************************TC0002_Login Test Case finished*********************
+12:58:51:981 [main] INFO  testCases.TC0001_Register - *********** TC0001_ Account Register started *********** 
+12:58:52:307 [main] INFO  testCases.TC0001_Register - here Clicked My account element
+12:58:53:012 [main] INFO  testCases.TC0001_Register -  here Clicked register element
+12:58:53:015 [main] INFO  testCases.TC0001_Register - here providing customer details for account registration
+12:58:55:344 [main] INFO  testCases.TC0001_Register - Validationg conformation Message
+12:58:55:436 [main] INFO  testCases.TC0001_Register - *********** TC0001_ Account Register Finished ***********
+12:58:57:910 [main] INFO  testCases.TC0002_Login - *********************TC0002_Login Test Case Started***********************
+12:58:58:756 [main] INFO  testCases.TC0002_Login - Sending user details like email password
+12:59:00:570 [main] INFO  testCases.TC0002_Login - Verifying My account page is opend or not
